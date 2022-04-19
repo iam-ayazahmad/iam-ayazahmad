@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div></div>
 
-<h1 align="center">Hi 👋, I'm Ayaz Ahmad</h1>
+<h1 text_color=D3D3D3&bg_color=0,000000,130F40 align="center">Hi 👋, I'm Ayaz Ahmad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 

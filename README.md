@@ -1,4 +1,15 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <div style="background-color: bisque;">
+        ### Hi there 👋
 
 <!--
 **iam-ayazahmad/iam-ayazahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div></div>
 <h1 align="center">Hi 👋, I'm Ayaz Ahmad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
@@ -44,3 +56,9 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-ayazahmad&show_icons=true&locale=en" alt="iam-ayazahmad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-ayazahmad&" alt="iam-ayazahmad" /></p>
+
+        
+    </div>
+    
+</body>
+</html>

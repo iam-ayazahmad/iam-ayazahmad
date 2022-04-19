@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-
-    <div style="background-color: bisque;">
-        ### Hi there 👋
+### Hi there 👋
 
 <!--
 **iam-ayazahmad/iam-ayazahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -56,9 +45,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-ayazahmad&show_icons=true&locale=en" alt="iam-ayazahmad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-ayazahmad&" alt="iam-ayazahmad" /></p>
-
-        
-    </div>
-    
-</body>
-</html>

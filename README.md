@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Aa7DG4xhgg6yReBkeTpO1S9JaTF17Dvk/view?usp=sharing](https://drive.google.com/file/d/1Aa7DG4xhgg6yReBkeTpO1S9JaTF17Dvk/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me:</h1>
+<style>H1{color:Blue;}</style>
 <p align="left">
 <a href="https://twitter.com/iam_ayazahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_ayazahmad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/iamayazahmad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iamayazahmad/" height="30" width="40" /></a>

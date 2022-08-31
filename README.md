@@ -15,13 +15,13 @@
 
 - 📫 How to reach me **ayazahmad.online@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Aa7DG4xhgg6yReBkeTpO1S9JaTF17Dvk/view?usp=sharing](https://drive.google.com/file/d/1Aa7DG4xhgg6yReBkeTpO1S9JaTF17Dvk/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1I-82Hh0MIWN9WWwoS6te0sxg5B9rPxIt?usp=sharing](https://drive.google.com/drive/folders/1I-82Hh0MIWN9WWwoS6te0sxg5B9rPxIt?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
 <a href="https://twitter.com/iam_ayazahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_ayazahmad" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/iamayazahmad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iamayazahmad/" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/iamayazahmad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iamayazahmad/" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,5 +1,5 @@
 
-[![ezgif.com-gif-maker-16498bc84ac0c5b12.gif](https://s7.gifyu.com/images/ezgif.com-gif-maker-16498bc84ac0c5b12.gif)](https://gifyu.com/image/SssNd)
+[![S8zzv.gif](https://s6.gifyu.com/images/S8zzv.gif)](https://gifyu.com/image/S8zzv)
 
 <h1 text_color=f03c15&bg_color=0,000000,130F40 align="center">Hi 👋, I'm Ayaz Ahmad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>

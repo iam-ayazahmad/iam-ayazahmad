@@ -35,44 +35,70 @@
 ---
 
 ### 🛠️ Languages and Tools:
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60" />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="60" height="60" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60" />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="Node.js" width="60" height="60" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" alt="Express.js" width="60" height="60" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="60" height="60" />
-  </a>
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" alt="Webpack" width="60" height="60" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="60" height="60" />
-  </a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="60" height="60" />
-  </a>
-</p>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+    <a href="#" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://api.iconify.design/skill-icons:angular-dark.svg" width="60px" alt="Angular" />
+    </a>
+    <a href="#" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://api.iconify.design/skill-icons:html.svg" width="60px" alt="HTML" />
+    </a>
+    <a href="#" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://api.iconify.design/skill-icons:css.svg" width="60px" alt="CSS" />
+    </a>
+    <a href="#" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://api.iconify.design/skill-icons:javascript.svg" width="60px" alt="JavaScript" />
+    </a>
+    <a href="#" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://api.iconify.design/skill-icons:typescript.svg" width="60px" alt="TypeScript" />
+    </a>
+    <a href="#" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://api.iconify.design/skill-icons:sass.svg" width="60px" alt="Sass" />
+    </a>
+    <a href="#" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://api.iconify.design/skill-icons:expressjs-dark.svg" width="60px" alt="Express" />
+    </a>
+    <a href="#" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://api.iconify.design/skill-icons:react-dark.svg" width="60px" alt="React" />
+    </a>
+    <a href="#" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://api.iconify.design/skill-icons:redux.svg" width="60px" alt="Redux" />
+    </a>
+    <a href="#" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://api.iconify.design/skill-icons:nodejs-dark.svg" width="60px" alt="Node.js" />
+    </a>
+    <a href="#" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://api.iconify.design/skill-icons:mongodb.svg" width="60px" alt="MongoDB" />
+    </a>
+    <a href="#" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://api.iconify.design/logos:highcharts.svg" width="60px" alt="Highcharts" />
+    </a>
+    <a href="#" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://api.iconify.design/skill-icons:bootstrap.svg" width="60px" alt="Bootstrap" />
+    </a>
+    <a href="#" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://api.iconify.design/skill-icons:bash-dark.svg" width="60px" alt="Bash" />
+    </a>
+    <a href="#" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://api.iconify.design/logos:npm-icon.svg" width="60px" alt="npm" />
+    </a>
+    <a href="#" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60px" alt="Jenkins" />
+    </a>
+    <a href="#" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://api.iconify.design/ant-design:github-outlined.svg" width="60px" alt="GitHub" />
+    </a>
+    <a href="#" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://api.iconify.design/skill-icons:netlify-dark.svg" width="60px" alt="Netlify" />
+    </a>
+    <a href="#" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="60px" alt="GitLab" />
+    </a>
+    <a href="#" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://api.iconify.design/logos:material-ui.svg" width="60px" alt="Material-UI" />
+    </a>
+</div>
+
 
 ---
 
